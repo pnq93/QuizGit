@@ -156,3 +156,6 @@ E:\Inżynieria\Quiz_25_03\Quiz\Quiz\Quiz\obj\Debug\Quiz.Game.resources
 E:\Inżynieria\Quiz_25_03\Quiz\Quiz\Quiz\obj\Debug\Quiz.Logowanie.resources
 E:\Inżynieria\Quiz_25_03\Quiz\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
 E:\Inżynieria\Quiz_25_03\Quiz\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cache
+C:\Users\Kamil\Documents\GitHub\QuizGit\Quiz_25_03\Quiz\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\Kamil\Documents\GitHub\QuizGit\Quiz_25_03\Quiz\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Users\Kamil\Documents\GitHub\QuizGit\Quiz_25_03\Quiz\Quiz\Quiz\obj\Debug\Quiz.pdb
