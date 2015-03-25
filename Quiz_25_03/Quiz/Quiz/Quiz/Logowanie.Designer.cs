@@ -36,7 +36,6 @@
             this.login = new System.Windows.Forms.Button();
             this.uzytkownik = new System.Windows.Forms.Button();
             this.rejestracja = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.obrazek)).BeginInit();
             this.SuspendLayout();
             // 
@@ -112,21 +111,11 @@
             this.rejestracja.UseVisualStyleBackColor = true;
             this.rejestracja.Click += new System.EventHandler(this.rejestracja_Click);
             // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(197, 149);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 9;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
             // Logowanie
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Controls.Add(this.button1);
             this.Controls.Add(this.rejestracja);
             this.Controls.Add(this.uzytkownik);
             this.Controls.Add(this.login);
@@ -154,6 +143,5 @@
         private System.Windows.Forms.Button login;
         private System.Windows.Forms.Button uzytkownik;
         private System.Windows.Forms.Button rejestracja;
-        private System.Windows.Forms.Button button1;
     }
 }

@@ -159,3 +159,6 @@ E:\Inżynieria\Quiz_25_03\Quiz\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.
 C:\Users\Kamil\Documents\GitHub\QuizGit\Quiz_25_03\Quiz\Quiz\Quiz\bin\Debug\Quiz.exe.config
 C:\Users\Kamil\Documents\GitHub\QuizGit\Quiz_25_03\Quiz\Quiz\Quiz\obj\Debug\Quiz.exe
 C:\Users\Kamil\Documents\GitHub\QuizGit\Quiz_25_03\Quiz\Quiz\Quiz\obj\Debug\Quiz.pdb
+c:\Users\Artur\Documents\GitHub\QuizGit\Quiz_25_03\Quiz\Quiz\Quiz\bin\Debug\Quiz.exe.config
+c:\Users\Artur\Documents\GitHub\QuizGit\Quiz_25_03\Quiz\Quiz\Quiz\obj\Debug\Quiz.exe
+c:\Users\Artur\Documents\GitHub\QuizGit\Quiz_25_03\Quiz\Quiz\Quiz\obj\Debug\Quiz.pdb
